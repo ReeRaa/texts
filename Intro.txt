@@ -1,2 +1,3 @@
 This is my first text.
-Purple, red.
+Purple and red.
+Green and blue.
